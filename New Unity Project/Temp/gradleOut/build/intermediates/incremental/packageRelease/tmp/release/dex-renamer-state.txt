@@ -1,0 +1,4 @@
+#Wed Nov 20 18:03:39 CST 2019
+base.0=/Users/wei/mifly_use/newTest/New Unity Project/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
